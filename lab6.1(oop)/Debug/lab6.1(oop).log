@@ -1,0 +1,34 @@
+﻿  Array.cpp
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(19,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(20,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(21,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(22,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(36,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(39,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(40,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(8,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(17,88): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(31,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(44,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(70,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(79,19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(87,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(131,23): warning C4018: '<': signed/unsigned mismatch
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(134,20): warning C4244: 'argument': conversion from 'const double' to 'const size_t', possible loss of data
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(139,39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(140,1): warning C5043: 'Array::pop_back': exception specification does not match previous declaration
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(48): message : see declaration of 'Array::pop_back'
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(159,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(174,23): warning C4018: '<': signed/unsigned mismatch
+D:\ООП\Звіти 6\lab6.1(oop)\Array.cpp(191,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(19,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(20,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(21,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(22,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(36,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(39,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Звіти 6\lab6.1(oop)\Array.h(40,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  lab6.1(oop).vcxproj -> D:\ООП\Звіти 6\lab6.1(oop)\Debug\lab6.1(oop).exe
